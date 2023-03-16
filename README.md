@@ -1,8 +1,9 @@
 ## CMD midterm
 
 Dit is een herdesign op de CMD midterm acrreditatie website.
+Ik ehb gewerkt aan de detail page
 
-<img width="1436" alt="Schermafbeelding 2022-10-13 om 18 26 02" src="https://user-images.githubusercontent.com/90189750/195652668-efcf0c6a-6fa2-4674-a416-64138cd0e993.png">
+<img width="1436" alt="gif of a yellow and white website" src="https://github.com/NBadeloe/lose-your-head-the-client-case/blob/main/docs/lose-your-head-detail-page.gif">
 
 
 
