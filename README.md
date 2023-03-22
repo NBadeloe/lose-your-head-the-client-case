@@ -1,7 +1,7 @@
 ## CMD midterm
 
 Dit is een herdesign op de CMD midterm acrreditatie website.
-Ik ehb gewerkt aan de detail page
+Ik heb gewerkt aan de detail page
 
 <img width="1436" alt="gif of a yellow and white website" src="https://github.com/NBadeloe/lose-your-head-the-client-case/blob/main/docs/lose-your-head-detail-page.gif">
 
